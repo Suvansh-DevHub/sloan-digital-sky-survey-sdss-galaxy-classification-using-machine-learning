@@ -6,7 +6,7 @@
 
 ## Deployed Web Application
 
-Link: https://stellar-classification.herokuapp.com/
+Link: 
 
 ## Context 
 
