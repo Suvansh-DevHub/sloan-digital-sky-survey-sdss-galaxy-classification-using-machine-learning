@@ -6,7 +6,7 @@
 
 ## Deployed Web Application
 
-Link: 
+Link: https://sloandigitalskysurvey.netlify.app/
 
 ## Context 
 
